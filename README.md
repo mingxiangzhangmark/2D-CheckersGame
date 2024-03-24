@@ -1,5 +1,5 @@
 # 2D-CheckersGame
-A small Checkers Game program in java language
+A Checkers Game in Java
 
 
 ## How to run the program
